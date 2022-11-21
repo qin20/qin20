@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @qin20
 - 👀 I’m interested in game and immortal cultivation.
-- 🌱 I’m currently learning ps, ae, pr.
+- 🌱 I’m currently learning game developing.
 - 💞️ I’m looking to collaborate on programming.
 - 📫 How to reach me a591737386@163.com.
 
